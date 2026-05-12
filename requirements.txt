@@ -1,0 +1,8 @@
+pandas
+SQLAlchemy
+pymysql
+python-dotenv
+openpyxl
+matplotlib
+seaborn
+plotly
