@@ -3,6 +3,8 @@ SQLAlchemy
 pymysql
 python-dotenv
 openpyxl
+requests
 matplotlib
 seaborn
-plotly
+numpy
+cryptography
